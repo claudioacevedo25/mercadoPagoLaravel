@@ -1,0 +1,2 @@
+[2020-03-10 21:56:36] local.ERROR: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ (SQL: select count(*) as aggregate from `items`) null 
